@@ -1,4 +1,7 @@
 #Daniel R Ladd
 
-[SQL Extraction](
+**Code Demonstrations**  
+[SQL Extraction]()  
+[Web Scrape]()  
+
 
