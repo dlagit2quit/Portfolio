@@ -1,4 +1,4 @@
-[Resume](https://dlagit2quit.github.io/portfolio/docs/resume.html)
+[Resume](https://dlagit2quit.github.io/portfolio/docs/resume.pdf)
 
 ### Code Demonstrations:
 *Data Extraction Examples*  
