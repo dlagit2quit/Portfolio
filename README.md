@@ -7,3 +7,4 @@
 [SQL ETL Example](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/portfolio/refs/heads/main/docs/sql_extraction.html)
 
 [Test Pic](/assets/img/Profile Pic.jpeg)
+[test 2] (https://github.com/dlagit2quit/portfolio/blob/536161d1693d4b846d9147924eeace62a1a7f966/assets/Profile%20Pic.jpg)
