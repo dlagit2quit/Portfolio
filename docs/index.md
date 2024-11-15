@@ -4,7 +4,7 @@
 ### Code Demonstrations:
 *Data Extraction Examples*  
 [API]()  
-[SQL Database]()  
+[SQL Database](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/sql_extraction.html)  
 [Web Scrape]()  
 [CSV files]()  
 [PDF files]()  
