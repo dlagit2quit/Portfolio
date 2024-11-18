@@ -14,7 +14,7 @@
 *Data Transformation Examples*  
 [Joining]()  
 [Basic Cleaning]()  
-[Dates](https://htmlpreview.github.io/?)  
+[Dates](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/date_manipulation.html)  
 [Aggregation]()  
 [Feature Engineering]()  
 
