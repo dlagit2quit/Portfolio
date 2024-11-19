@@ -34,7 +34,7 @@
 [Three-Dimensional Bar Plot]()  
 
 *Machine Learning Examples*  
-[Linear Regression]()  
+[Linear Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/student_performance_lm.html)  
 [Logistic Regression]()
 [Descision Tree]()  
 [Random Forrest]()  
