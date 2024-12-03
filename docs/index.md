@@ -18,12 +18,12 @@
 [Aggregation]()  
 [Feature Engineering]()  
 
-*Analysis Examples*  
+<!--*Analysis Examples*  
 [Desc Stats]()  
 [Inf Stats]()  
 [Outlier Detection]()  
 [Correlation]()
-<!-- Full EDA alternative? -->  
+ Full EDA alternative? 
 
 *Visuals*  
 [Univariate]()  
@@ -31,7 +31,7 @@
 [Distribution]()  
 [Correlation]()  
 [Heatmap]()  
-[Three-Dimensional Bar Plot]()  
+[Three-Dimensional Bar Plot]()  -->
 
 *Machine Learning Examples*  
 [Linear Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/student_performance_lm.html)  
