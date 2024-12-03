@@ -44,5 +44,5 @@
 [SVM]()  
 
   
-*Loading Examples*  
-<!--[Local Storage]()-->
+<!--*Loading Examples*  
+[Local Storage]()-->
