@@ -7,7 +7,7 @@
 [API Extraction / JSON transformation](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/api_extraction.html)  
 [SQL Extraction / Joining](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/sql_extraction.html)  
 [Web Scrape / Strings](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/web_scrape_r.html)   
-[Loop file Extraction / PDF Transformation](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/pdf_extract_transform.html)
+[Loop file Extraction / PDF Transformation](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/pdf_extract_transform.html)  
 [Date Transformation / Feature Engineering](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/date_manipulation.html)  
 
 <!--*Analysis Examples*  
@@ -17,16 +17,15 @@
 [Correlation]()
  Full EDA alternative? -->
 
-*Visualalizations & Storytelling*
+*Visualalizations & Storytelling*  
+[Combined Examples]()
 
 
 
-<!-- [Univariate]()  
-[Multivariate]()  
-[Distribution]()  
-[Correlation]()  
+
+<!--[Correlation]()  
 [Heatmap]()  
-[Three-Dimensional Bar Plot]() -->
+-->
 
 *Machine Learning Examples*  
 [Linear Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/student_performance_lm.html)  
