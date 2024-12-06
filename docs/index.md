@@ -3,40 +3,35 @@
 [LinkedIn](https://www.linkedin.com/in/dan-ladd-1b4b96154/)
 
 ### Code Demonstrations:  
-*Data Extraction Examples*  
+*Data Extraction / Transformation Examples*  
 [API](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/api_extraction.html)  
 [SQL Database](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/sql_extraction.html)  
 [Web Scrape](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/web_scrape_r.html)  
 [CSV files]()  
 [PDF files](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/pdf_extract_transform.html)
- 
-
-*Data Transformation Examples*  
-[Joining]()  
-[Basic Cleaning]()  
+<!--[Joining]()--> 
 [Dates](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/date_manipulation.html)  
-[Aggregation]()  
-[Feature Engineering]()  
+<!--[Feature Engineering]()-->
 
 <!--*Analysis Examples*  
 [Desc Stats]()  
 [Inf Stats]()  
 [Outlier Detection]()  
 [Correlation]()
- Full EDA alternative? 
+ Full EDA alternative? -->
 
-*Visuals*  
-[Univariate]()  
+*Visualalizations & Storytelling*  
+<!-- [Univariate]()  
 [Multivariate]()  
 [Distribution]()  
 [Correlation]()  
 [Heatmap]()  
-[Three-Dimensional Bar Plot]()  -->
+[Three-Dimensional Bar Plot]() -->
 
 *Machine Learning Examples*  
 [Linear Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/student_performance_lm.html)  
 [Logistic Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/log_reg_ex.html)  
-[Descision Tree]()  
+<!--[Descision Tree]()  
 [Random Forrest]()  
 [KNN]()  
 [Naive Bayes]()  
@@ -44,5 +39,5 @@
 [SVM]()  
 
   
-<!--*Loading Examples*  
+*Loading Examples*  
 [Local Storage]()-->
