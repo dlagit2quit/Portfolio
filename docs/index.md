@@ -8,9 +8,7 @@
 [SQL Extraction / Joining](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/sql_extraction.html)  
 [Web Scrape / Strings](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/web_scrape_r.html)   
 [Loop file Extraction / PDF Transformation](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/pdf_extract_transform.html)
-<!--[Joining]()--> 
 [Date Transformation / Feature Engineering](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/date_manipulation.html)  
-<!--[Feature Engineering]()-->
 
 <!--*Analysis Examples*  
 [Desc Stats]()  
@@ -19,7 +17,10 @@
 [Correlation]()
  Full EDA alternative? -->
 
-*Visualalizations & Storytelling*  
+*Visualalizations & Storytelling*
+
+
+
 <!-- [Univariate]()  
 [Multivariate]()  
 [Distribution]()  
