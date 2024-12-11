@@ -11,7 +11,7 @@
 [Date Transformation / Feature Engineering](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/date_manipulation.html)  
 
 *Visualalizations & Storytelling*  
-[Combined Examples](https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/visualizations.html)
+[Combined Examples](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/visualizations.html)
 
 *Machine Learning Examples*  
 [Linear Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/student_performance_lm.html)  
