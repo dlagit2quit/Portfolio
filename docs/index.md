@@ -10,22 +10,8 @@
 [Loop file Extraction / PDF Transformation](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/pdf_extract_transform.html)  
 [Date Transformation / Feature Engineering](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/date_manipulation.html)  
 
-<!--*Analysis Examples*  
-[Desc Stats]()  
-[Inf Stats]()  
-[Outlier Detection]()  
-[Correlation]()
- Full EDA alternative? -->
-
 *Visualalizations & Storytelling*  
-[Combined Examples]()
-
-
-
-
-<!--[Correlation]()  
-[Heatmap]()  
--->
+[Combined Examples](https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/visualizations.html)
 
 *Machine Learning Examples*  
 [Linear Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/student_performance_lm.html)  
@@ -38,7 +24,4 @@
 [Naive Bayes]()  
 [XG Boost]()  
 [SVM]()  
-
-  
-*Loading Examples*  
-[Local Storage]()-->
+-->
