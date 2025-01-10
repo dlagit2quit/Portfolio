@@ -10,7 +10,7 @@
 [Loop file Extraction / PDF Transformation](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/pdf_extract_transform.html)  
 [Date Transformation / Feature Engineering](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/date_manipulation.html)  
 
-*Visualalizations & Storytelling*  
+*Visualalizations*  
 [Combined Examples](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/visualizations.html)
 
 *Machine Learning Examples*  
