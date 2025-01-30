@@ -1,6 +1,5 @@
 ### Resources
-[Resume](https://github.com/dlagit2quit/Portfolio/blob/b0cb324805903ffe35298406f451cc8da977f371/docs/ds_res_1.pdf)
-
+[Resume](https://github.com/dlagit2quit/Portfolio/blob/b0cb324805903ffe35298406f451cc8da977f371/docs/ds_res_1.docx)
 [LinkedIn](https://www.linkedin.com/in/dan-ladd-1b4b96154/)
 
 ### Code Demonstrations:  
