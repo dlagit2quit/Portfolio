@@ -14,7 +14,7 @@
 [Combined Examples](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/visualizations.html)
 
 *End-to-End Analysis (Excluding Code)*  
-[An Exploration of Henniker, NH Property Taxes](file:///C:/Users/dladd/Downloads/henniker_tax_report_2%20(2).htm)
+[An Exploration of Henniker, NH Property Taxes](file:///C:/Users/dladd/Downloads/henniker_tax_report_2%20(3).htm)
 
 *Machine Learning Examples*  
 [Linear Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/student_performance_lm.html)  
