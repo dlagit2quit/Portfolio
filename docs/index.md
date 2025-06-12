@@ -1,7 +1,11 @@
 ### Resources
 [Resume](https://github.com/dlagit2quit/Portfolio/blob/119cbc217179684f177544e49fd431e03f16d08a/docs/ds_res_1.pdf)  
-[LinkedIn](https://www.linkedin.com/in/dan-ladd-1b4b96154/)
+[LinkedIn](https://www.linkedin.com/in/dan-ladd-1b4b96154/)  
 
+  *End-to-End Analysis (Excluding Code)*  
+[An Exploration of Henniker, NH Property Taxes](file:///C:/Users/dladd/Downloads/henniker_tax_report_2)  
+
+  
 ### Code Demonstrations:  
 *Data Extraction / Transformation Examples*  
 [API Extraction / JSON transformation](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/api_extraction.html)  
@@ -12,9 +16,6 @@
 
 *Visualalizations*  
 [Combined Examples](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/visualizations.html)
-
-*End-to-End Analysis (Excluding Code)*  
-[An Exploration of Henniker, NH Property Taxes](file:///C:/Users/dladd/Downloads/henniker_tax_report_2%20(3).htm)
 
 *Machine Learning Examples*  
 [Linear Regression](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/student_performance_lm.html)  
