@@ -2,7 +2,7 @@
 [Resume](https://github.com/dlagit2quit/Portfolio/blob/119cbc217179684f177544e49fd431e03f16d08a/docs/ds_res_1.pdf)  
 [LinkedIn](https://www.linkedin.com/in/dan-ladd-1b4b96154/)  
 
-  *End-to-End Analysis (Excluding Code)*  
+*End-to-End Analysis (Excluding Code)*  
 [An Exploration of Henniker, NH Property Taxes](https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/henniker_tax_report_2.htm)
 
   
