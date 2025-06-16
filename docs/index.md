@@ -3,7 +3,7 @@
 [LinkedIn](https://www.linkedin.com/in/dan-ladd-1b4b96154/)  
 
 *End-to-End Analysis (Excluding Code)*  
-[An Exploration of Henniker, NH Property Taxes]
+[An Exploration of Henniker, NH Property Taxes](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dlagit2quit/Portfolio/refs/heads/main/docs/
 
   
 ### Code Demonstrations:  
